@@ -1,0 +1,2 @@
+M:\Phase-1 Assisted projects\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.AssemblyReference.cache
+M:\Phase-1 Assisted projects\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.CoreCompileInputs.cache
